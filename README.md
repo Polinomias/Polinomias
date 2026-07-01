@@ -15,7 +15,7 @@
 * 🎨 I'm a database designer
 * 📱 I make apps for PC
 * 🎓 I'm a Computer Engineer (graduating in October 2025 TSU /w )
-* 🌐 You can see some of my projects on [my portfolio](https://linktr.ee/ilyAnst)
+* 🌐 You can see some of my projects on [my portfolio](https://guns.lol/polinomias)
 * 📺 I'm make server/networks on Minecraft
 
 
