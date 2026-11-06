@@ -1,181 +1,134 @@
-<a href="#"><img width="100%" height="auto" src="https://guns.lol/polinomias" height="175px"/></a>
+<!-- ===================== HEADER ===================== -->
+<div align="center">
 
-<h3 align="center">Hey there, I'm <a href="https://guns.lol/polinomias">Polinomias</a> - Jose Alfonzo<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:3b82f6&height=200&section=header&text=Jose%20Alfonzo&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%7C%20Frontend%20%7C%20Backend%20%7C%20SaaS&descAlignY=60&descSize=18" alt="Header" />
 
-<p align="center">
-  <a href="https://www.youtube.com/@Polinomias"><img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?color=red&label=Subscribe&style=for-the-badge"/></a>  
-  <a href="https://twitter.com/Polinomias"><img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/DenverCoder1?color=55960c&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
-  <a href="https://github.com/Polinomias/"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/DenverCoder1?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
-  <a href="https://github.com/Polinomias/"><img alt="views" title="Github views" src="https://freshidea.com/jonah/app/ghpvc/"/></a>
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Hola%2C+soy+Jose+Alfonzo;%F0%9F%92%BB+Desarrollador+Web+apasionado+por+el+Frontend;%F0%9F%9A%80+Creo+landing+pages+y+plataformas+SaaS;%F0%9F%93%9A+Estudiante+de+Ingenier%C3%ADa+en+Inform%C3%A1tica" alt="Typing SVG" />
+</a>
 
-## 📖 About me
+<br/>
 
-* 💻 I'm a full MC programmer
-* 🎨 I'm a database designer
-* 📱 I make apps for PC
-* 🎓 I'm a Computer Engineer (graduating in October 2025 TSU /w )
-* 🌐 You can see some of my projects on [my portfolio](https://guns.lol/polinomias)
-* 📺 I'm make server/networks on Minecraft
+<img src="https://komarev.com/ghpvc/?username=Polinomias&label=Visitas&color=3b82f6&style=for-the-badge" alt="Visitas del perfil" />
+<a href="https://github.com/Polinomias?tab=followers">
+  <img src="https://img.shields.io/github/followers/Polinomias?label=Seguidores&style=for-the-badge&logo=github&color=0f172a" alt="Seguidores" />
+</a>
 
+</div>
 
-## 🔥 My contribution streak
+---
 
-<p align="center">
-  <a href="https://github.com/Polinomias/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Polinoimas"/>
-  </a>
-</p>
+## 👨‍💻 Sobre mí
 
-## 🙋‍♂️ Connect with me:
+- 👋 Soy **Jose Alfonzo**, *Web Developer* orientado al **Frontend**, con conocimientos de **Backend**, **SaaS** y desarrollo de sistemas.
+- 🎓 **TSU en Informática** (2025) y actualmente estudiante de **Ingeniería en Informática** en la Universidad Nacional Experimental "Rafael María Baralt".
+- 🌎 Vivo en **Cabimas, Zulia (Venezuela)**.
+- 🗣️ Inglés nivel **C1** con certificado académico (2024).
+- 🎨 Me apasiona crear interfaces modernas, minimalistas y funcionales: landing pages, dashboards y páginas SaaS.
+- 📱 Aprendiendo a desarrollar apps móviles con **React Native + Expo**.
+- 🌱 Siempre aprendiendo y construyendo proyectos nuevos.
 
-<p align="left">
-  <a href="https://www.youtube.com/@Polinomias"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <!--<a href="https://www.linkedin.com/in/jonah-lawrence/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>-->
-  <a href="https://twitter.com/Polinomias"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <!-- <a href="https://www.reddit.com/user/denvercoder1/"><img alt="Reddit" title="Reddit" src="https://img.shields.io/badge/-Reddit-FF5700?style=for-the-badge&logo=reddit&logoColor=white"/></a> -->
-  <a href="https://discord.gg/uPNeBBd7wu"><img src="https://badgen.net/#discord/online-members/8Jzqu3T"></a>
+<div align="center">
 
+<a href="https://josealfonzo.lat">
+  <img src="https://img.shields.io/badge/🌐_Mi_Portafolio-jose--alfonzo.vercel.app-3b82f6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portafolio" />
+</a>
+<a href="https://github.com/Polinomias">
+  <img src="https://img.shields.io/badge/GitHub-Polinomias-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
 
-## 📘 My top open source projects
+</div>
 
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>📘 Project</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>🤝 Forks</b></td>
-    </tr>
-  </thead>
-<!--  <tbody>
-    <tr>
-      <td><a href="https://github.com/Polinomias/LaTeX-Gboard-Dictionary"><b>LaTeX-Gboard-Dictionary</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/LaTeX-Gboard-Dictionary?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/LaTeX-Gboard-Dictionary?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Polinomias/github-readme-streak-stats"><b>GitHub Readme Streak Stats</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/github-readme-streak-stats?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/github-readme-streak-stats?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-     <tr>
-      <td><a href="https://github.com/Polinomias/github-readme-youtube-stats"><b>GitHub Readme YouTube Stats</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/github-readme-youtube-stats?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/github-readme-youtube-stats?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/DenverCoder1/unicode-formatter"><b>Unicode Formatter</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/unicode-formatter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/unicode-formatter?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/DenverCoder1/Unedit-for-Reddit"><b>Unedit for Reddit</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/Unedit-for-Reddit?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/Unedit-for-Reddit?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-  </tbody>
-</table>
+---
 
+## 🛠️ Tecnologías y herramientas
 
-<p align="left">
-  <a href="https://github.com/Polinomias?tab=repositories"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-More%20Repos-black?style=for-the-badge&logo=addthis&logoColor=white"/></a>
-</p>
+<div align="center">
 
-## 👨‍💻 Languages and Tools:
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite&theme=dark" alt="Frontend" />
 
-<table>
-    <tbody>
-        <tr>
-            <td><a href="#"><img alt="JavaScript" title="JavaScript" height="28px"
-                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a>
-            </td>
-            <td><a href="#"><img alt="HTML5" title="HTML5" height="28px"
-                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
-            </td>
-            <td><a href="#"><img alt="CSS3" title="CSS3" height="28px"
-                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
-            </td>
-            <td><a href="#"><img alt="PHP" title="PHP" height="28px"
-                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" /></a>
-            </td>
-            <td><a href="#"><img alt="Python" title="Python" height="28px"
-                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /></a>
-            </td>
-        </tr>
-        <tr>
-            <td><a href="#"><img alt="C++" title="C++" height="28px"
-                        src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /></a></td>
-            <td><a href="#"><img alt="C#" title="C#" height="28px"
-                        src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" /></a></td>
-            <td><a href="#"><img alt="Java" title="Java" height="28px"
-                        src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /></a></td>
-            <td><a href="#"><img alt="Kotlin" title="Kotlin (Learning)" height="28px"
-                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" /></a>
-            </td>
-            <td><a href="#"><img alt="Flutter" title="Flutter (Learning)" height="28px"
-                        src="https://img.icons8.com/color/48/000000/flutter.png" /></a></td>
-        </tr>
-        <tr>
-            <td><a href="#"><img alt="NodeJS" title="NodeJS" height="28px"
-                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></a>
-            </td>
-            <td><a href="#"><img alt="SQL" title="SQL" height="28px"
-                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /></a>
-            </td>
-            <td><a href="#"><img alt="Sheets" title="Sheets (Learning)" height="28px"
-                        src="https://img.icons8.com/color/48/000000/google-sheets.png" /></a></td>
-            <td><a href="#"><img alt="Markdown" title="Markdown (Learning)" height="28px"
-                        src="https://i.imgur.com/eO5z1xV.png" /></a></td>
-            <td><a href="#"><img alt="GitHub" title="GitHub" height="28px"
-                        src="https://i.imgur.com/DZgetVv.png" /></a>
-            </td>
-        </tr>
-        <tr>
-            <td><a href="#"><img alt="Terminal" title="Terminal" height="28px"
-                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></a>
-            </td>
-            <td><a href="#"><img alt="Visual Studio" title="Visual Studio Code❤️" height="28px"
-                        src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" /></a></td>
-            <td><a href="#"><img alt="Heroku" title="Heroku" height="28px"
-                        src="https://img.icons8.com/color/48/000000/heroku.png" /></a></td>
-            <td><a href="https://brave.com/eyl243"><img alt="Brave" title="Brave" height="28px"
-                        src="https://i.imgur.com/UfBWFbP.png" /></a></td>
-        </tr>
-    </tbody>
-</table>
+### ⚙️ Backend y bases de datos
+<img src="https://skillicons.dev/icons?i=nodejs,express,supabase,postgres,mysql&theme=dark" alt="Backend" />
 
+### 📱 Móvil y herramientas
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,windows&theme=dark" alt="Herramientas" />
 
-## 📈 Github Stats
+</div>
 
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<details>
-  <summary>📊 GitHub Profile Stats</summary>
-  <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Polinomias's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Polinomias&show_icons=true&count_private=true&hide=" /></a>
-</details>
+---
 
-<details> 
-  <summary>💻 Most used languages</summary>
-  <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Polinomias's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Polinomias&langs_count=10&layout=compact#" /></a>
-  <br/>
-  <b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
-</details>
+## 🚀 Proyectos destacados
 
+| Proyecto | Descripción | Tecnologías |
+|---|---|---|
+| 🌐 **Portafolio personal** | Mi sitio web con bio, servicios de Frontend/Backend y proyectos. | ![React](https://img.shields.io/badge/-React-20232a?logo=react&logoColor=61DAFB) ![Vercel](https://img.shields.io/badge/-Vercel-000?logo=vercel&logoColor=white) |
+| 📦 **Supply** | Sistema de inventario para una tienda de repuestos automotrices (proyecto académico). | ![Next.js](https://img.shields.io/badge/-Next.js-000?logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/-React-20232a?logo=react&logoColor=61DAFB) |
+| 📊 **Dashboard de pasantías** | Dashboard interactivo para gestionar la asignación de prácticas y pasantías profesionales universitarias. | ![React](https://img.shields.io/badge/-React-20232a?logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white) |
+| 🖥️ **Landing pages** | Landing pages minimalistas modernas con tema claro y oscuro. | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
 
-<!-- https://github.com/jamesgeorge007/github-activity-readme -->
-<details>
-  <summary>⚡ Recent GitHub Activity</summary>
-  <br/>
+> 📌 Mira todos mis repositorios en [github.com/Polinomias?tab=repositories](https://github.com/Polinomias?tab=repositories)
 
-<!--START_SECTION:activity-->
-<!--1. 🗣 Commented on [#43](https://github.com/DenverCoder1/jct-discord-bot/issues/43) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
-2. 🗣 Commented on [#43](https://github.com/DenverCoder1/jct-discord-bot/issues/43) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
-3. 🎉 Merged PR [#44](https://github.com/DenverCoder1/jct-discord-bot/pull/44) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
-4. ❗️ Closed issue [#42](https://github.com/DenverCoder1/jct-discord-bot/issues/42) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
-5. 💪 Opened PR [#44](https://github.com/DenverCoder1/jct-discord-bot/pull/44) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
-<!--END_SECTION:activity-->
+---
 
-</details>
------
+## 📊 Estadísticas de GitHub
 
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Polinomias&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Polinomias&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes principales" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Polinomias&theme=tokyonight&hide_border=true" alt="Racha de contribuciones" />
+
+</div>
+
+---
+
+## 🏆 Logros de GitHub
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Polinomias&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Trofeos" />
+
+</div>
+
+---
+
+## 📈 Actividad
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Polinomias&theme=tokyo-night&hide_border=true&area=true" alt="Gráfico de actividad" />
+
+</div>
+
+---
+
+## 🤝 Conectemos
+
+<div align="center">
+
+<a href="https://jose-alfonzo.vercel.app">
+  <img src="https://img.shields.io/badge/Portafolio-3b82f6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portafolio" />
+</a>
+<a href="https://github.com/Polinomias">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<!-- Agrega aquí tus otras redes, por ejemplo:
+<a href="https://www.linkedin.com/in/TU-USUARIO">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:TU-CORREO@ejemplo.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+-->
+
+<br/><br/>
+
+💬 *¿Tienes un proyecto en mente? ¡Hablemos!* 🚀
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:0f172a&height=120&section=footer" alt="Footer" width="100%" />
