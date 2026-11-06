@@ -26,12 +26,14 @@
 - 🗣️ Inglés nivel **C1** con certificado académico (2024).
 - 🎨 Me apasiona crear interfaces modernas, minimalistas y funcionales: landing pages, dashboards y páginas SaaS.
 - 📱 Aprendiendo a desarrollar apps móviles con **React Native + Expo**.
+- 💼 **Disponible para trabajo freelance** y nuevas oportunidades.
+- ⏳ Más de 2 años de experiencia construyendo proyectos web.
 - 🌱 Siempre aprendiendo y construyendo proyectos nuevos.
 
 <div align="center">
 
 <a href="https://josealfonzo.lat">
-  <img src="https://img.shields.io/badge/🌐_Mi_Portafolio-jose--alfonzo.vercel.app-3b82f6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portafolio" />
+  <img src="https://img.shields.io/badge/🌐_Mi_Portafolio-josealfonzo.lat-3b82f6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portafolio" />
 </a>
 <a href="https://github.com/Polinomias">
   <img src="https://img.shields.io/badge/GitHub-Polinomias-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -48,8 +50,8 @@
 ### 🎨 Frontend
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite&theme=dark" alt="Frontend" />
 
-### ⚙️ Backend y bases de datos
-<img src="https://skillicons.dev/icons?i=nodejs,express,supabase,postgres,mysql&theme=dark" alt="Backend" />
+### ⚙️ Backend, lenguajes y bases de datos
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,supabase,postgres,mysql&theme=dark" alt="Backend" />
 
 ### 📱 Móvil y herramientas
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,windows&theme=dark" alt="Herramientas" />
@@ -62,10 +64,12 @@
 
 | Proyecto | Descripción | Tecnologías |
 |---|---|---|
-| 🌐 **Portafolio personal** | Mi sitio web con bio, servicios de Frontend/Backend y proyectos. | ![React](https://img.shields.io/badge/-React-20232a?logo=react&logoColor=61DAFB) ![Vercel](https://img.shields.io/badge/-Vercel-000?logo=vercel&logoColor=white) |
+| 🏝️ **Landing Page Posada Bob Marley** | Landing page de una posada boutique en Ocumare de la Costa, Venezuela, que muestra sus habitaciones tropicales, buceo y entorno natural. | ![React](https://img.shields.io/badge/-React-20232a?logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white) |
+| 🎓 **Gestión de pasantías profesionales** | SaaS universitario para gestionar la asignación de prácticas y pasantías profesionales. | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white) |
+| 🛍️ **Centro Comercial** | Landing page responsive para un centro comercial, con tiendas, servicios e información para visitantes. | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) |
 | 📦 **Supply** | Sistema de inventario para una tienda de repuestos automotrices (proyecto académico). | ![Next.js](https://img.shields.io/badge/-Next.js-000?logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/-React-20232a?logo=react&logoColor=61DAFB) |
-| 📊 **Dashboard de pasantías** | Dashboard interactivo para gestionar la asignación de prácticas y pasantías profesionales universitarias. | ![React](https://img.shields.io/badge/-React-20232a?logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white) |
-| 🖥️ **Landing pages** | Landing pages minimalistas modernas con tema claro y oscuro. | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
+
+> 🔗 Demos y repositorios de cada proyecto en [josealfonzo.lat](https://josealfonzo.lat/#projects)
 
 > 📌 Mira todos mis repositorios en [github.com/Polinomias?tab=repositories](https://github.com/Polinomias?tab=repositories)
 
@@ -110,24 +114,22 @@
 
 <div align="center">
 
-<a href="https://jose-alfonzo.vercel.app">
+<a href="https://josealfonzo.lat">
   <img src="https://img.shields.io/badge/Portafolio-3b82f6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portafolio" />
+</a>
+<a href="https://www.linkedin.com/in/jose-alfonzo-a52886436">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://x.com/JoseeAlfonzoo">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
 </a>
 <a href="https://github.com/Polinomias">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-<!-- Agrega aquí tus otras redes, por ejemplo:
-<a href="https://www.linkedin.com/in/TU-USUARIO">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:TU-CORREO@ejemplo.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
--->
 
 <br/><br/>
 
-💬 *¿Tienes un proyecto en mente? ¡Hablemos!* 🚀
+💬 *¿Tienes un proyecto en mente? Estoy disponible para freelance, ¡hablemos!* 🚀
 
 </div>
 
